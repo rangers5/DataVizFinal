@@ -8,8 +8,8 @@
 |-----------------------------------	|----------------------------------------------------------------------------------------------------------------------	|--------------------	|
 | Analysis with Bearing Shaft.ipynb 	| Plots Active Power and Bearing Shaft Temperature over the entire dataset                                             	| None               	|
 | Analysis.ipynb                    	| From the cleaned data, plot Average Power over time, Hex Bin Plots, and Regression Plots                             	| DataCleaning.ipynb 	|
-| Data Exploration.ipynb            	| Our Initial File for data exploration, used for determining what to do in the data cleaning section                  	| None               	|
-| DataCleaning.ipynb                	| Generates a cleanData.csv file for use in other files                                                                	| None               	|
+| 1_Data Exploration.ipynb            	| Our Initial File for data exploration, used for determining what to do in the data cleaning section                  	| None               	|
+| 2_DataCleaning.ipynb                	| Generates a cleanData.csv file for use in other files                                                                	| None               	|
 | GenerateBoxPlots.ipynb            	| Generates the box plots used to show outliers and distributions (After cleaning)                                     	| DataCleaning.ipynb 	|
 | GenerateHistograms.ipynb          	| Generate the histograms from cleaned data                                                                            	| DataCleaning.ipynb 	|
 | GenerateTimeGraphs.ipynb          	| Generate the bar and line charts for active power by month and day.                                                  	| DataCleaning.ipynb 	|
